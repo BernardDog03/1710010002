@@ -2,3 +2,4 @@ NO.REG	:1710010002
 Nama	:ABDULLAH AZZAM ROBBANI
 Jurusan	:TI REGULER
 Angkatan : 2017
+complete
